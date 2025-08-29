@@ -7,8 +7,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C7F7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Moulitharan+M;Aspiring+Python+Data+Analyst;SQL+%7C+Pandas+%7C+NumPy+%7C+Excel+%7C+Power+BI;Turning+Data+into+Insights)](https://git.io/typing-svg)
 
 ---
+##  About Me  
 
-## 🚀 Skills & Tools  
+- 🔎 **Aspiring Python Data Analyst** passionate about exploring and analyzing data.  
+- 📊 Skilled in **Python, SQL, Excel, Power BI, Pandas, NumPy**.  
+- 🌱 Currently learning more about **Data Science & Business Intelligence**.  
+- 🎮 **Hobbies:** Reading codes in github, reading tech blogs.  
+
+---
+## Skills & Tools  
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
@@ -20,7 +27,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical" height="180"/>
@@ -29,21 +36,11 @@
 
 ---
 
-## 🎯 About Me  
+## Connect with Me 
+[![Mail](https://img.shields.io/badge/Email-black?style=flat&logo=gmail)](moulitharan4080@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/moulitharan-dataanalyst-it)
 
-- 🔎 **Aspiring Python Data Analyst** passionate about exploring and analyzing data.  
-- 📊 Skilled in **Python, SQL, Excel, Power BI, Pandas, NumPy**.  
-- 🌱 Currently learning more about **Data Science & Business Intelligence**.  
-- 🎮 **Hobbies:** Playing cricket, solving coding challenges, reading tech blogs.  
 
 ---
 
-## 📫 Connect with Me  
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 📧 Email: yourmail@example.com  
-- 🌐 Portfolio: [your-portfolio-link](https://your-portfolio.com)  
-
----
-
-✨ *Thanks for visiting my profile!* 🚀  
+*Thanks for visiting my profile!*   
