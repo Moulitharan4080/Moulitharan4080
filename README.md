@@ -1,10 +1,6 @@
-<!-- Sun Animation -->
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" alt="sun animation" width="150" height="150" />
-</p>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C7F7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Moulitharan+M;Aspiring+Python+Data+Analyst;SQL+%7C+Pandas+%7C+NumPy+%7C+Excel+%7C+Power+BI;Turning+Data+into+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color="blue"&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Moulitharan;Aspiring+Python+Data+Analyst;SQL+%7C+Pandas+%7C+NumPy+%7C+Excel+%7C+Power+BI;Turning+Data+into+Insights)](https://git.io/typing-svg)
 
 ---
 
