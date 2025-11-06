@@ -1,35 +1,71 @@
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color="blue"&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Moulitharan;Aspiring+Python+Data+Analyst;SQL+%7C+Pandas+%7C+NumPy+%7C+Excel+%7C+Power+BI;Turning+Data+into+Insights)](https://git.io/typing-svg)
+---
+<!-- Dynamic Professional GitHub Profile README -->
+
+<h1 align="center"> Hey, I'm Moulitharan M</h1>
+<h3 align="center"> Python Full Stack Developer |  Data Analyst |  MySQL Expert</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Python+Developer;Data+Analytics+Enthusiast;MySQL+Database+Architect;Building+Efficient+and+Scalable+Systems;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Moulitharan4080&label=Profile%20Views&color=1E90FF&style=for-the-badge" alt="Profile views"/>
+</p>
 
 ---
 
-##  About Me  
+##  About Me
 
-- 🔎 **Aspiring Python Data Analyst** passionate about exploring and analyzing data.  
-- 📊 Skilled in **Python, SQL, Excel, Power BI, Pandas, NumPy**.  
-- 🌱 Currently learning more about **Data Science & Business Intelligence**.  
-- 🎮 **Hobbies:** Reading codes in github, reading tech blogs.  
+ I'm a results-driven **Python Full Stack Developer** and **Data Analyst**, skilled in **backend development**, **database optimization**, and **data visualization**.  
+ I love bridging the gap between **data and decisions**, and crafting efficient systems that scale beautifully.
+
+- Currently building: **AI-powered data dashboards** & **Django REST APIs**
+- Learning: **Cloud (AWS, Docker)** & **Advanced Data Engineering**
 
 ---
 
-## Skills & Tools  
+##  Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
+###  Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql" />
+</p>
+
+###  Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,bootstrap" />
+</p>
+
+###  Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,aws" />
+</p>
+
+### Data Analytics 
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)   
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)  
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 
 ---
 
-## GitHub Stats  
+##  Dynamic GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moulitharan&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moulitharan&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Moulitharan4080&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moulitharan4080&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moulitharan4080&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moulitharan4080&theme=tokyonight" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moulitharan4080&theme=tokyo-night" alt="Activity Graph"/>
 </p>
 
 ---
