@@ -9,10 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Python+Developer;Data+Analytics+Enthusiast;MySQL+Database+Architect;Building+Efficient+and+Scalable+Systems;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Moulitharan4080&label=Profile%20Views&color=1E90FF&style=for-the-badge" alt="Profile views"/>
-</p>
-
 ---
 
 ##  About Me
